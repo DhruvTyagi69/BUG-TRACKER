@@ -20,3 +20,4 @@ const LogoutPage = () => {
 };
 
 export default LogoutPage;
+//https://github.com/DhruvTyagi69/BUG-TRACKER
